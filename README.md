@@ -8,7 +8,9 @@ Please cite these 2 papers
 
 
 Dr. Emrah Onat - TOBB University of Economics and Technology, Ankara, Turkey (eonat87@yahoo.com)
+
 Dr. Yakup Ozkazanc - Hacettepe University, Ankara, Turkey
 
 Hybrid-Level Fusion of Radar Imaging Methods
+
 An analysis of Doppler beam sharpening technique used in fighter aircraft
